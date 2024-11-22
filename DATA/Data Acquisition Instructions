@@ -1,0 +1,6 @@
+Our data exceeds 25 MB, so detailed instructions to download data to a local device is included below:
+
+1. Go to https://data.niaid.nih.gov/resources?id=zenodo_4498085 for link to AMAZON dataset download.
+2. Read through the description of the dataset to understand the difference between Test, Validation, and Train files, as well as the difference between image and mask files.
+3. Download only AMAZON zip file (may take a few minutes), and unzip file onto local device.
+4. Save in a known file location, then update filepath on P3_Image_EDA.R and Secondary EDA.R located in SCRIPTS folder.
