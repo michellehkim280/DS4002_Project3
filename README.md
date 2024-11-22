@@ -17,7 +17,7 @@
 - Data Appendix: PDF file explaining and defining variables within data.
   
 ### 3) OUTPUT - This folder includes the output of our analysis, including charts and graphs to support or oppose our hypothesis.
-- EDA Output.pdf: file including histograms and visualizations from P3_Image_EDA.R and Secondary EDA.R.
+- EDA Output.pdf: file including histograms and visualizations from Initial_EDA.R and Secondary EDA.R.
   
 ## Reproducing Results
 
