@@ -22,8 +22,8 @@
 ## Reproducing Results
 
 1. Go to Data Aquisition Instructions file in DATA folder and follow link and instructions to download zip file.
-2. Run P3_Image_EDA.R to perform initial EDA and save output graphs to EDA Output file.
+2. Run Initial_EDA.R to perform initial EDA and save output graphs to EDA Output file.
 3. Run Secondary EDA.R to perform secondary EDA and save output graphs to EDA Output file.
-4. Run Training_Model.ipynb to perform CNN Model analysis on dataset and save table output to Modelling Output file.
+4. Run Training_Model.ipynb to perform CNN Model analysis on dataset and save table output to Modeling Output file.
 
 
